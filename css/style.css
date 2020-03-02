@@ -1891,7 +1891,7 @@ h3 {
   background-size: cover;
   background-position: center center;
   text-align: center;
-  padding: 269px 0 159px 0;
+  padding: 125px 0 38px 0;
 }
 
 @media (max-width: 767px) {
@@ -3275,9 +3275,9 @@ h3 {
 }
 
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_popular_courses.scss */
-.popular_courses.plus_padding {
+/* .popular_courses.plus_padding {
   padding-top: 200px;
-}
+} */
 
 @media (max-width: 767px) {
   /* line 4, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_popular_courses.scss */
